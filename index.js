@@ -13,15 +13,7 @@ require("dotenv").config({ path: ".env.production" });
 
 const app = express();
 
-const allowedOrigins = [
-  "http://localhost:3000",
-  "https://kjellmanauto.se",
-  "http://kjellmanauto.se",
-  "http://img.smart365.se",
-  "https://effortless-sfogliatella-f59a83.netlify.app",
-  "https://kjellmanauto.com",
-  "http://kjellmanauto.com"
-];
+import { allowedOrigins, smartUrl } from "./variants";
 
 app.use(
   cors({
@@ -47,7 +39,7 @@ app.options("*", (req, res) => {
 app.use(bodyParser.json());
 
 const transporter = nodemailer.createTransport({
-  host: "send.one.com",
+  host: process.env.HOST,
   port: 587,
   secure: false,
   auth: {
@@ -70,10 +62,10 @@ app.get("/vehicles", async (req, res) => {
           resolve();
         })
         .connect({
-          host: "ssh.kjellmanauto.se",
-          port: 22,
-          username: "kjellmanauto.se",
-          password: "Josefineloof123",
+          host: process.env.SSH_HOST,
+          port: process.env.SSH_PORT,
+          username: process.env.SSH_USERNAME,
+          password: SSH_PASSWORD,
         });
     });
 
@@ -87,7 +79,7 @@ app.get("/vehicles", async (req, res) => {
         if (err) reject(err);
 
         sftp.fastGet(
-          "/customers/d/7/e/kjellmanauto.se/httpd.www/Vehicles.xml",
+          smartUrl,
           localFilePath,
           (err) => {
             if (err) reject(err);
@@ -141,10 +133,10 @@ app.get("/vehicle/:id", async (req, res) => {
           resolve();
         })
         .connect({
-          host: "ssh.kjellmanauto.se",
-          port: 22,
-          username: "kjellmanauto.se",
-          password: "Josefineloof123",
+          host: process.env.SSH_HOST,
+          port: process.env.SSH_PORT,
+          username: process.env.SSH_USERNAME,
+          password: process.env.SSH_PASSWORD,
         });
     });
 
@@ -158,7 +150,7 @@ app.get("/vehicle/:id", async (req, res) => {
         if (err) reject(err);
 
         sftp.fastGet(
-          "/customers/d/7/e/kjellmanauto.se/httpd.www/Vehicles.xml",
+          smartUrl,
           localFilePath,
           (err) => {
             if (err) reject(err);
