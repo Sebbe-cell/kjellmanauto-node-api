@@ -11,3 +11,4 @@
 .env*.local
 variants.js
 Vehicles.xml
+test
