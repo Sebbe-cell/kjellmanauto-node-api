@@ -10,3 +10,4 @@
 # local env files
 .env*.local
 variants.js
+Vehicles.xml
