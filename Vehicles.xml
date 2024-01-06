@@ -1,0 +1,1926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+	<vehicle id="383555" locationid="249">
+		<identification>JBC117</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WBAWB91030E208056</vin>
+		<created>2023-09-18 22:53</created>
+		<updated>2023-12-18 23:06:55</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>BMW 330D xDrive Coupé</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>BMW</brand>
+		<model>3-serien</model>
+		<version>330d xDrive Coupé, E92 (245hk)</version>
+		<modelyear>2009</modelyear>
+		<vehicleyear>2008</vehicleyear>
+		<miles value="16935">16 935 mil</miles>
+		<color></color>
+		<colortext>BRUN</colortext>
+		<primaryfuel>Diesel</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels>Fyrhjulsdriven</drivewheels>
+		<bodytype>Kupé</bodytype>
+		<power value="245">245 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>178 g/km</emission>
+		<consumption>6,8 l/100km</consumption>
+		<totalweight>2 120 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>405 kg</maxload>
+		<maxtow>1 800 kg</maxtow>
+		<passengers>3</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="4596">4.596 kr</tax>
+		<passedinspection>2022-11-10</passedinspection>
+		<price value="139900">139.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/Q2F5hEUmGYEKgeI</thumb>
+			<main>http://img.smart365.se/Q2F5hEUmGYFMhIA</main>
+			<large>http://img.smart365.se/Q2F5hEUmGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="392479" locationid="249">
+		<identification>MOA800</identification>
+		<hideidentification>false</hideidentification>
+		<vin>JTJHW31U602065330</vin>
+		<created>2023-10-18 19:37</created>
+		<updated>2023-12-04 16:44:03</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Lexus RX 400H Business</headline>
+		<description>FRI HEMLEVERANS I STOCKHOLM. Nu har en Lexus RX hybrid inkommit till lagret. En stor och komfortabel bil som passar en liten eller stor familj. Nyservad med olja i motor. Nya sommardäck. 
+
+Servad enligt följande miltal: 1402. 2842. 4241. 5568. 7372. 10001. 11989. 14373. 16735. 16922. 17309. Besiktad fram till: 2024-08-31. 
+
+Utrustad med bland annat: Helläder - Farthållare - Parkeringssensorer  - Elstolar - 
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Lexus</brand>
+		<model>RX</model>
+		<version>400h (211hk)</version>
+		<modelyear>2009</modelyear>
+		<vehicleyear>2008</vehicleyear>
+		<miles value="17300">17 300 mil</miles>
+		<color></color>
+		<colortext>SILVER</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels>Fyrhjulsdriven</drivewheels>
+		<bodytype>Övrigt</bodytype>
+		<power value="211">211 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>192 g/km</emission>
+		<consumption>8,1 l/100km</consumption>
+		<totalweight>2 505 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>390 kg</maxload>
+		<maxtow>2 000 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="2142">2.142 kr</tax>
+		<passedinspection>2023-06-21</passedinspection>
+		<price value="109900">109.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hFxIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hFxIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hFxIGIEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGNIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGNIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGNIGIEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGRIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGRIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGRIGIEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGVIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGVIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGVIGIEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGZIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGZIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGZIGIEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGdIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGdIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGdIGIEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGhIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGhIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGhIGIEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGlIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGlIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGlIGIEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGpIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGpIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGpIGIEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGtIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGtIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGtIGIEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hGxIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hGxIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hGxIGIEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hG1IGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hG1IGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hG1IGIEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hG5IGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hG5IGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hG5IGIEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hG9IGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hG9IGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hG9IGIEwiYA</large>
+		</image>
+		<image index="15" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hHBIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hHBIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hHBIGIEwiYA</large>
+		</image>
+		<image index="16" showh2h="false">
+			<thumb>http://img.smart365.se/Hyd6hHFIGIEKgeI</thumb>
+			<main>http://img.smart365.se/Hyd6hHFIGIFMhIA</main>
+			<large>http://img.smart365.se/Hyd6hHFIGIEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="392859" locationid="249">
+		<identification>OUF835</identification>
+		<hideidentification>false</hideidentification>
+		<vin>YV1BW7050B1203752</vin>
+		<created>2023-10-19 19:18</created>
+		<updated>2023-12-08 10:38:20</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Volvo V70 D5 R-Design</headline>
+		<description>FINANS FRÅN: 1.376 :-. FRI HEMLEVERANS I STOCKHOLM. Nu har vi fått in en Volvo V70 med mycket utrustning! Bilen är bland annat utrustad med det populära och fina paketet &quot;R-Design&quot;. Inredningen präglas av mörkt tema som skiftar i ljusa kulörer. 
+
+Servad enligt följande miltal: 4246. 7802. 9811. 13465(kamrem). 15477. 17359. 19054. 20235. 21599. 23051.
+
+Utrustad med bland annat: Helläder - R Design - Parkeringssensorer  - Navigation - Dragkrok - 
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Volvo</brand>
+		<model>V70</model>
+		<version>II D5 (205hk)</version>
+		<modelyear>2011</modelyear>
+		<vehicleyear>2011</vehicleyear>
+		<miles value="23356">23 356 mil</miles>
+		<color></color>
+		<colortext>SVART</colortext>
+		<primaryfuel>Diesel</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="205">205 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>169 g/km</emission>
+		<consumption>6,4 l/100km</consumption>
+		<totalweight>2 310 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>473 kg</maxload>
+		<maxtow>2 000 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="4125">4.125 kr</tax>
+		<passedinspection>2023-03-30</passedinspection>
+		<price value="109900">109.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hDZhGIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hDZhGIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hDZhGIEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hDJhGIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hDJhGIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hDJhGIEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hDNhGIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hDNhGIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hDNhGIEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hDRhGIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hDRhGIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hDRhGIEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hDFhGIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hDFhGIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hDFhGIEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hDBhGIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hDBhGIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hDBhGIEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hA41GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hA41GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hA41GIEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hA81GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hA81GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hA81GIEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hBA1GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hBA1GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hBA1GIEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hBE1GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hBE1GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hBE1GIEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hBI1GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hBI1GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hBI1GIEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hBM1GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hBM1GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hBM1GIEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hBQ1GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hBQ1GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hBQ1GIEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/Gyp6hBU1GIEKgeI</thumb>
+			<main>http://img.smart365.se/Gyp6hBU1GIFMhIA</main>
+			<large>http://img.smart365.se/Gyp6hBU1GIEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="397687" locationid="249">
+		<identification>OHP502</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WV1ZZZ7HZHH063778</vin>
+		<created>2023-11-06 15:56</created>
+		<updated>2023-12-18 23:07:59</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Volkswagen Transporter 2.0TDI DSG T6</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>Volkswagen</brand>
+		<model>Transporter</model>
+		<version>T6 2.0 TDI BMT Skåp (150hk)</version>
+		<modelyear>2017</modelyear>
+		<vehicleyear>2016</vehicleyear>
+		<miles value="13200">13 200 mil</miles>
+		<color></color>
+		<colortext>BRUN</colortext>
+		<primaryfuel>Diesel</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels>Framhjulsdriven</drivewheels>
+		<bodytype>Minibuss</bodytype>
+		<power value="150">150 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>161 g/km</emission>
+		<consumption>6,2 l/100km</consumption>
+		<totalweight>3 000 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>813 kg</maxload>
+		<maxtow>2 500 kg</maxtow>
+		<passengers>2</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="3708">3.708 kr</tax>
+		<passedinspection>2022-12-28</passedinspection>
+		<price value="199900">199.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/d096hEkmGYEKgeI</thumb>
+			<main>http://img.smart365.se/d096hEkmGYFMhIA</main>
+			<large>http://img.smart365.se/d096hEkmGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="403816" locationid="249">
+		<identification>FJL734</identification>
+		<hideidentification>false</hideidentification>
+		<vin>ZZZ98ZXS606342</vin>
+		<created>2023-11-30 17:08</created>
+		<updated>2023-12-02 23:11:01</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Porsche Boxster 2.5L 204HK</headline>
+		<description>FINANS FRÅN: 1.725 :-. FRI HEMLEVERANS I STOCKHOLM. Nu har vi fått in en Porsche 986 Boxster i fint skick! Svensksåld 1999 och vald med en härlig röd skinninredning. Bilen är redo att levereras till nästa kund. 
+
+Bilen är besiktad fram till: 2024-08-31. Fordonsskatt: 1985 kr. 
+
+Utrustad med bland annat: Helläder - CD-Stereo - Halvautomatisk Cab - 
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Porsche</brand>
+		<model>Boxster</model>
+		<version>2.5 (204hk)</version>
+		<modelyear>1999</modelyear>
+		<vehicleyear>1999</vehicleyear>
+		<miles value="13295">13 295 mil</miles>
+		<color></color>
+		<colortext>GRÅ</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Manuell</gearbox>
+		<drivewheels>Bakhjulsdriven</drivewheels>
+		<bodytype>Cabriolet</bodytype>
+		<power value="204">204 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>0 g/km</emission>
+		<consumption>0,0 l/100km</consumption>
+		<totalweight>1 560 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>230 kg</maxload>
+		<maxtow>0 kg</maxtow>
+		<passengers>1</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="1985">1.985 kr</tax>
+		<passedinspection>2023-06-01</passedinspection>
+		<price value="144900">144.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hG80GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hG80GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hG80GIEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hAI1GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hAI1GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hAI1GIEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hAE1GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hAE1GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hAE1GIEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hH80GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hH80GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hH80GIEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHw0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHw0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHw0GIEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hH00GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hH00GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hH00GIEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hH40GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hH40GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hH40GIEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hAA1GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hAA1GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hAA1GIEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hAM1GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hAM1GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hAM1GIEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHA0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHA0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHA0GIEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHE0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHE0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHE0GIEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHI0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHI0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHI0GIEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHM0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHM0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHM0GIEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHQ0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHQ0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHQ0GIEwiYA</large>
+		</image>
+		<image index="15" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHU0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHU0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHU0GIEwiYA</large>
+		</image>
+		<image index="16" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHY0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHY0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHY0GIEwiYA</large>
+		</image>
+		<image index="17" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHc0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHc0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHc0GIEwiYA</large>
+		</image>
+		<image index="18" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHg0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHg0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHg0GIEwiYA</large>
+		</image>
+		<image index="19" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHk0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHk0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHk0GIEwiYA</large>
+		</image>
+		<image index="20" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHo0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHo0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHo0GIEwiYA</large>
+		</image>
+		<image index="21" showh2h="false">
+			<thumb>http://img.smart365.se/aH96hHs0GIEKgeI</thumb>
+			<main>http://img.smart365.se/aH96hHs0GIFMhIA</main>
+			<large>http://img.smart365.se/aH96hHs0GIEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="404397" locationid="249">
+		<identification>XAT39L</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WVWZZZE1ZMP020647</vin>
+		<created>2023-12-04 12:53</created>
+		<updated>2023-12-08 13:50:43</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Volkswagen ID.3 PRO 150 KW 25% VAT/Moms</headline>
+		<description>FRI HEMLEVERANS I STOCKHOLM. Nu har vi fått in en mycket fin ID.3! Bilen är i fint skick och levereras med sommar samt vinterhjul. Räckvidd enligt WLTP är 426KM vid 100% laddat batteri. Batteristorlek: 58 kWh. Denna bil går att leasa på företag. 
+
+Utrustad med bland annat: Adaptiv Farthållare - Lane Assist - Navigation - Parkeringssensorer - Apple Carplay -  
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Volkswagen</brand>
+		<model>ID.3</model>
+		<version>58kWh (204hk)</version>
+		<modelyear>2020</modelyear>
+		<vehicleyear>2020</vehicleyear>
+		<miles value="4937">4 937 mil</miles>
+		<color></color>
+		<colortext>GRÅ</colortext>
+		<primaryfuel>El</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="0">0 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>0 g/km</emission>
+		<consumption>0,0 l/100km</consumption>
+		<totalweight>2 270 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>449 kg</maxload>
+		<maxtow>0 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="360">360 kr</tax>
+		<passedinspection>2023-12-07</passedinspection>
+		<price value="279900">279.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>true</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hDdhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hDdhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hDdhGIEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hDhhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hDhhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hDhhGIEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hDlhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hDlhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hDlhGIEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hDphGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hDphGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hDphGIEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hDthGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hDthGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hDthGIEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hDxhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hDxhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hDxhGIEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hD1hGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hD1hGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hD1hGIEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hD5hGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hD5hGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hD5hGIEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hD9hGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hD9hGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hD9hGIEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hEBhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hEBhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hEBhGIEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hEFhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hEFhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hEFhGIEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hEJhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hEJhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hEJhGIEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hENhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hENhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hENhGIEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hERhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hERhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hERhGIEwiYA</large>
+		</image>
+		<image index="15" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hEVhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hEVhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hEVhGIEwiYA</large>
+		</image>
+		<image index="16" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hEZhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hEZhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hEZhGIEwiYA</large>
+		</image>
+		<image index="17" showh2h="false">
+			<thumb>http://img.smart365.se/LQR7hEdhGIEKgeI</thumb>
+			<main>http://img.smart365.se/LQR7hEdhGIFMhIA</main>
+			<large>http://img.smart365.se/LQR7hEdhGIEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="404542" locationid="249">
+		<identification>FRZ905</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WVWZZZ1KZBW583931</vin>
+		<created>2023-12-04 17:52</created>
+		<updated>2023-12-13 00:08:04</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Volkswagen Golf Plus DSG 2.0TDI</headline>
+		<description>FRI HEMLEVERANS I STOCKHOLM. Nu har vi fått in en Volkswagen Golf Plus med automatisk växellåda. Med en robust 2.0 dieselmotor med 140HK har du en bil som är snål med även komfortabel. Det ingår vinter samt sommarhjul!  
+
+Servad enligt följande miltal: 3141. 6367. 9413. 11247. 12668(kamrem). 13253. 13792. 14118. Bränsleförbrukning vid blandad körning: 5,4L/100KM. Besiktad fram till: 2024-05-31. 
+
+Utrustad med bland annat: Farthållare - DSG - Bluetooth - AUX
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Volkswagen</brand>
+		<model>Golf</model>
+		<version>VI 2.0 TDI Plus (140hk)</version>
+		<modelyear>2011</modelyear>
+		<vehicleyear>2011</vehicleyear>
+		<miles value="14193">14 193 mil</miles>
+		<color></color>
+		<colortext>BRUN</colortext>
+		<primaryfuel>Diesel</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="140">140 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>144 g/km</emission>
+		<consumption>5,5 l/100km</consumption>
+		<totalweight>2 070 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>569 kg</maxload>
+		<maxtow>1 500 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="2823">2.823 kr</tax>
+		<passedinspection>2023-03-24</passedinspection>
+		<price value="84900">84.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEBgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEBgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEBgGIEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hFNgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hFNgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hFNgGIEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hFJgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hFJgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hFJgGIEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hFRgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hFRgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hFRgGIEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEFgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEFgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEFgGIEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEJgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEJgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEJgGIEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hENgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hENgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hENgGIEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hERgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hERgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hERgGIEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEVgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEVgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEVgGIEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEZgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEZgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEZgGIEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEpgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEpgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEpgGIEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEdgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEdgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEdgGIEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEhgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEhgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEhgGIEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hElgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hElgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hElgGIEwiYA</large>
+		</image>
+		<image index="15" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hEtgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hEtgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hEtgGIEwiYA</large>
+		</image>
+		<image index="16" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hExgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hExgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hExgGIEwiYA</large>
+		</image>
+		<image index="17" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hE1gGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hE1gGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hE1gGIEwiYA</large>
+		</image>
+		<image index="18" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hFFgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hFFgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hFFgGIEwiYA</large>
+		</image>
+		<image index="19" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hE5gGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hE5gGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hE5gGIEwiYA</large>
+		</image>
+		<image index="20" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hE9gGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hE9gGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hE9gGIEwiYA</large>
+		</image>
+		<image index="21" showh2h="false">
+			<thumb>http://img.smart365.se/PgV7hFBgGIEKgeI</thumb>
+			<main>http://img.smart365.se/PgV7hFBgGIFMhIA</main>
+			<large>http://img.smart365.se/PgV7hFBgGIEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="405320" locationid="249">
+		<identification>KSP105</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WBAUX71090A378829</vin>
+		<created>2023-12-07 14:50</created>
+		<updated>2023-12-18 23:07:11</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>BMW 335D E91 LCI M-Sport KW-Colis</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>BMW</brand>
+		<model>3-serien</model>
+		<version>335d Touring, E91 (286hk)</version>
+		<modelyear>2011</modelyear>
+		<vehicleyear>2011</vehicleyear>
+		<miles value="24300">24 300 mil</miles>
+		<color></color>
+		<colortext>Mörkgrå</colortext>
+		<primaryfuel>Diesel</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="286">286 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>176 g/km</emission>
+		<consumption>6,7 l/100km</consumption>
+		<totalweight>2 185 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>465 kg</maxload>
+		<maxtow>1 800 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="4491">4.491 kr</tax>
+		<passedinspection>2023-12-15</passedinspection>
+		<price value="159900">159.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/SAt7hEYmGYEKgeI</thumb>
+			<main>http://img.smart365.se/SAt7hEYmGYFMhIA</main>
+			<large>http://img.smart365.se/SAt7hEYmGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="406110" locationid="249">
+		<identification>RAH764</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WAUZZZ8XXJB009326</vin>
+		<created>2023-12-11 16:51</created>
+		<updated>2023-12-14 21:29:47</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Audi A1 1.4TFSI 125HK S-Line</headline>
+		<description>FRI HEMLEVERANS I STOCKHOLM. Nu har vi fått in en Audi A1 med det snygga S-Line paketet. Denna bil har även den stora 1.4 liters motorn med 125 HK. Det ingår vinter samt sommarhjul!  
+
+Servad enligt följande miltal:2441. 3315. 4005. 5837. 6586.  Bränsleförbrukning vid blandad körning: 5.1L/100KM. Skatt: 536 kr. Besiktad fram till: 2024-05-31. 
+
+Utrustad med bland annat: S-Line - Bluetooth - P-Sensorer
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Audi</brand>
+		<model>A1</model>
+		<version>1.4 TFSI Sportback (125hk)</version>
+		<modelyear>2017</modelyear>
+		<vehicleyear>2017</vehicleyear>
+		<miles value="7000">7 000 mil</miles>
+		<color></color>
+		<colortext>SVART</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Manuell</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype>Halvkombi</bodytype>
+		<power value="125">125 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>119 g/km</emission>
+		<consumption>5,1 l/100km</consumption>
+		<totalweight>1 625 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>398 kg</maxload>
+		<maxtow>1 200 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="536">536 kr</tax>
+		<passedinspection>2022-12-09</passedinspection>
+		<price value="144900">144.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHIRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHIRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHIRGYEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHMRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHMRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHMRGYEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHQRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHQRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHQRGYEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHURGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHURGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHURGYEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHYRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHYRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHYRGYEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHcRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHcRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHcRGYEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHgRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHgRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHgRGYEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHkRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHkRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHkRGYEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHoRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHoRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHoRGYEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHsRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHsRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHsRGYEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hHwRGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hHwRGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hHwRGYEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hH0RGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hH0RGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hH0RGYEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hH4RGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hH4RGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hH4RGYEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hH8RGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hH8RGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hH8RGYEwiYA</large>
+		</image>
+		<image index="15" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAASGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAASGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAASGYEwiYA</large>
+		</image>
+		<image index="16" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAESGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAESGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAESGYEwiYA</large>
+		</image>
+		<image index="17" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAISGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAISGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAISGYEwiYA</large>
+		</image>
+		<image index="18" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAMSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAMSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAMSGYEwiYA</large>
+		</image>
+		<image index="19" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAQSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAQSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAQSGYEwiYA</large>
+		</image>
+		<image index="20" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAUSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAUSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAUSGYEwiYA</large>
+		</image>
+		<image index="21" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAYSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAYSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAYSGYEwiYA</large>
+		</image>
+		<image index="22" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAcSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAcSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAcSGYEwiYA</large>
+		</image>
+		<image index="23" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAgSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAgSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAgSGYEwiYA</large>
+		</image>
+		<image index="24" showh2h="false">
+			<thumb>http://img.smart365.se/XhF7hAkSGYEKgeI</thumb>
+			<main>http://img.smart365.se/XhF7hAkSGYFMhIA</main>
+			<large>http://img.smart365.se/XhF7hAkSGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="406683" locationid="249">
+		<identification>FUZ112</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WAUZZZ8E38A020263</vin>
+		<created>2023-12-13 16:39</created>
+		<updated>2023-12-18 15:02:11</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Audi A4 2.0TFSI 200HK Avant Quattro</headline>
+		<description>INFO: KOLLA ER SKRÄPPOST VID MEJLKONVERSATION.
+
+FRI HEMLEVERANS I STOCKHOLM. Nu har vi fått in en Audi A4 i mycket fint skick. Perfekt bil för detta pris och nu på vintern är fyrhjulsdriften underbar. Det ingår vinter samt sommarhjul!  
+
+Servad enligt följande miltal: 3057. 5684. 7945. 10505. 16144. 16357. 17057. 18062. 18625. 19060. 19935. 20234. 20599(kamrem &amp; vattenpump). Bränsleförbrukning vid blandad körning: 8.8L/100KM. Skatt: 2516 kr. Besiktad fram till: 2024-09-30. 
+
+Utrustad med bland annat: Quattro - Dragkrok - SoV
+
+Välkomna till oss på Kjellman Auto! Vi tar gärna din bil i inbyte. De flesta bilarna i vårt lager kan levereras med 12-24 månaders garanti.</description>
+		<articletype>Personbil</articletype>
+		<brand>Audi</brand>
+		<model>A4</model>
+		<version>2.0T Avant quattro (200hk)</version>
+		<modelyear>2007</modelyear>
+		<vehicleyear>2007</vehicleyear>
+		<miles value="20786">20 786 mil</miles>
+		<color></color>
+		<colortext>SILVER</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Manuell</gearbox>
+		<drivewheels>Fyrhjulsdriven</drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="200">200 hk</power>
+		<torque></torque>
+		<towbar>true</towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>209 g/km</emission>
+		<consumption>8,8 l/100km</consumption>
+		<totalweight>2 090 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>470 kg</maxload>
+		<maxtow>1 600 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="2516">2.516 kr</tax>
+		<passedinspection>2023-07-20</passedinspection>
+		<price value="54900">54.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDIiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDIiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDIiGYEwiYA</large>
+		</image>
+		<image index="2" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDMiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDMiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDMiGYEwiYA</large>
+		</image>
+		<image index="3" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDQiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDQiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDQiGYEwiYA</large>
+		</image>
+		<image index="4" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDUiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDUiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDUiGYEwiYA</large>
+		</image>
+		<image index="5" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDYiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDYiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDYiGYEwiYA</large>
+		</image>
+		<image index="6" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDciGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDciGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDciGYEwiYA</large>
+		</image>
+		<image index="7" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDgiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDgiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDgiGYEwiYA</large>
+		</image>
+		<image index="8" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDkiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDkiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDkiGYEwiYA</large>
+		</image>
+		<image index="9" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDoiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDoiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDoiGYEwiYA</large>
+		</image>
+		<image index="10" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDsiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDsiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDsiGYEwiYA</large>
+		</image>
+		<image index="11" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hDwiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hDwiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hDwiGYEwiYA</large>
+		</image>
+		<image index="12" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hD0iGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hD0iGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hD0iGYEwiYA</large>
+		</image>
+		<image index="13" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hD4iGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hD4iGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hD4iGYEwiYA</large>
+		</image>
+		<image index="14" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hD8iGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hD8iGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hD8iGYEwiYA</large>
+		</image>
+		<image index="15" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEAiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEAiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEAiGYEwiYA</large>
+		</image>
+		<image index="16" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEEiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEEiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEEiGYEwiYA</large>
+		</image>
+		<image index="17" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEIiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEIiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEIiGYEwiYA</large>
+		</image>
+		<image index="18" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEMiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEMiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEMiGYEwiYA</large>
+		</image>
+		<image index="19" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEQiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEQiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEQiGYEwiYA</large>
+		</image>
+		<image index="20" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEUiGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEUiGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEUiGYEwiYA</large>
+		</image>
+		<image index="21" showh2h="false">
+			<thumb>http://img.smart365.se/GxZ7hEciGYEKgeI</thumb>
+			<main>http://img.smart365.se/GxZ7hEciGYFMhIA</main>
+			<large>http://img.smart365.se/GxZ7hEciGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="407967" locationid="249">
+		<identification>OJJ334</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WVWZZZAUZHW530298</vin>
+		<created>2023-12-18 14:18</created>
+		<updated>2023-12-18 23:07:45</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Volkswagen Golf Sportsvan R-Line 1.4TSI</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>Volkswagen</brand>
+		<model>Golf</model>
+		<version>VII 1.4 TSI Sportsvan (150hk)</version>
+		<modelyear>2016</modelyear>
+		<vehicleyear>2016</vehicleyear>
+		<miles value="10946">10 946 mil</miles>
+		<color></color>
+		<colortext>SILVER</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="150">150 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>125 g/km</emission>
+		<consumption>5,4 l/100km</consumption>
+		<totalweight>1 900 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>417 kg</maxload>
+		<maxtow>1 500 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="668">668 kr</tax>
+		<passedinspection>2023-01-17</passedinspection>
+		<price value="174900">174.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/HyB7hEgmGYEKgeI</thumb>
+			<main>http://img.smart365.se/HyB7hEgmGYFMhIA</main>
+			<large>http://img.smart365.se/HyB7hEgmGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="408048" locationid="249">
+		<identification>TGJ515</identification>
+		<hideidentification>false</hideidentification>
+		<vin>YV1UZBABDJ1111636</vin>
+		<created>2023-12-18 16:42</created>
+		<updated>2023-12-18 23:08:14</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Volvo XC60 T8 Hybrid Twin Engine</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>Volvo</brand>
+		<model>XC60</model>
+		<version>T8 AWD Twin Engine (407hk)</version>
+		<modelyear>2018</modelyear>
+		<vehicleyear>2018</vehicleyear>
+		<miles value="8300">8 300 mil</miles>
+		<color></color>
+		<colortext>GRÅ</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Automat</gearbox>
+		<drivewheels>Fyrhjulsdriven</drivewheels>
+		<bodytype>Kombi</bodytype>
+		<power value="320">320 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>0 g/km</emission>
+		<consumption>0,0 l/100km</consumption>
+		<totalweight>2 660 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>465 kg</maxload>
+		<maxtow>2 100 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="360">360 kr</tax>
+		<passedinspection>2023-04-11</passedinspection>
+		<price value="389900">389.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/cCB7hEomGYEKgeI</thumb>
+			<main>http://img.smart365.se/cCB7hEomGYFMhIA</main>
+			<large>http://img.smart365.se/cCB7hEomGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="408090" locationid="249">
+		<identification>BWT100</identification>
+		<hideidentification>false</hideidentification>
+		<vin>JTMDEREVX0D087409</vin>
+		<created>2023-12-18 19:36</created>
+		<updated>2023-12-18 23:07:30</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>Toyota RAV4 2.0 VVT-i AWD Executive Nyservad</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>Toyota</brand>
+		<model>RAV4</model>
+		<version>2.0 VVT-i (151hk)</version>
+		<modelyear>2015</modelyear>
+		<vehicleyear>2015</vehicleyear>
+		<miles value="13500">13 500 mil</miles>
+		<color></color>
+		<colortext>SVART</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox></gearbox>
+		<drivewheels>Fyrhjulsdriven</drivewheels>
+		<bodytype>Övrigt</bodytype>
+		<power value="152">152 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>152 g/km</emission>
+		<consumption>6,5 l/100km</consumption>
+		<totalweight>2 110 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>470 kg</maxload>
+		<maxtow>1 500 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="1262">1.262 kr</tax>
+		<passedinspection>2023-04-21</passedinspection>
+		<price value="179900">179.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/GiF7hEcmGYEKgeI</thumb>
+			<main>http://img.smart365.se/GiF7hEcmGYFMhIA</main>
+			<large>http://img.smart365.se/GiF7hEcmGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+	<vehicle id="408092" locationid="249">
+		<identification>XJD219</identification>
+		<hideidentification>false</hideidentification>
+		<vin>WBABN510X0JT69784</vin>
+		<created>2023-12-18 19:47</created>
+		<updated>2023-12-18 23:04:19</updated>
+		<hideutc></hideutc>
+		<delivered>false</delivered>
+		<oneowner>false</oneowner>
+		<incoming>false</incoming>
+		<booked>false</booked>
+		<headline>BMW 330i Coupé M-Sport Manuell</headline>
+		<description></description>
+		<articletype>Personbil</articletype>
+		<brand>BMW</brand>
+		<model>3-serien</model>
+		<version>330Ci Coupé, E46 (231hk)</version>
+		<modelyear>2002</modelyear>
+		<vehicleyear>2002</vehicleyear>
+		<miles value="19200">19 200 mil</miles>
+		<color></color>
+		<colortext>SVART</colortext>
+		<primaryfuel>Bensin</primaryfuel>
+		<secondaryfuel></secondaryfuel>
+		<gearbox>Manuell</gearbox>
+		<drivewheels></drivewheels>
+		<bodytype></bodytype>
+		<power value="231">231 hk</power>
+		<torque></torque>
+		<towbar></towbar>
+		<isnew>false</isnew>
+		<environment>false</environment>
+		<intraffic></intraffic>
+		<emission>0 g/km</emission>
+		<consumption>0,0 l/100km</consumption>
+		<totalweight>1 930 kg</totalweight>
+		<length></length>
+		<width></width>
+		<height></height>
+		<maxload>350 kg</maxload>
+		<maxtow>1 700 kg</maxtow>
+		<passengers>4</passengers>
+		<cargolength></cargolength>
+		<cargowidth></cargowidth>
+		<cargoheight></cargoheight>
+		<enginetype></enginetype>
+		<enginesize></enginesize>
+		<beds></beds>
+		<class></class>
+		<hours></hours>
+		<speed></speed>
+		<hydraulicconnection></hydraulicconnection>
+		<hydraulicposition></hydraulicposition>
+		<bucketpower></bucketpower>
+		<reach></reach>
+		<diggingdepth></diggingdepth>
+		<diggingheight></diggingheight>
+		<bucketvolume></bucketvolume>
+		<suspension></suspension>
+		<axledistance></axledistance>
+		<keys></keys>
+		<roadtax></roadtax>
+		<tax value="2413">2.413 kr</tax>
+		<passedinspection>2023-06-07</passedinspection>
+		<price value="119900">119.900 kr</price>
+		<currentprice value="0">0 kr</currentprice>
+		<isdeductable>false</isdeductable>
+		<image index="1" showh2h="false">
+			<thumb>http://img.smart365.se/HCF7hEQmGYEKgeI</thumb>
+			<main>http://img.smart365.se/HCF7hEQmGYFMhIA</main>
+			<large>http://img.smart365.se/HCF7hEQmGYEwiYA</large>
+		</image>
+		<otherequipment></otherequipment>
+		<carfax></carfax>
+		<vdn></vdn>
+		<financeid>268</financeid>
+		<contactid></contactid>
+		<servicehistory></servicehistory>
+		<warranty></warranty>
+		<videoid></videoid>
+		<videoimage></videoimage>
+		<showweb>true</showweb>
+		<showh2h>false</showh2h>
+		<adprice></adprice>
+		<addescription></addescription>
+		<purchasepersonid></purchasepersonid>
+		<purchasedate></purchasedate>
+		<bustest></bustest>
+	</vehicle>
+</vehicles>
